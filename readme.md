@@ -56,11 +56,11 @@ To run this script, ensure you have the following installed:
 
 The script provides several customizable parameters:
  
-• **Drive Letter:** Prompted input for the drive letter where the Busy Tag device is located (e.g., `D`).
+â€¢ **Drive Letter:** Prompted input for the drive letter where the Busy Tag device is located (e.g., `D`).
 
-• **Text Content:** Displays location and temperature data.
+â€¢ **Text Content:** Displays location and temperature data.
 
-• **Font Size and Colors:** Predefined but can be modified in the script.
+â€¢ **Font Size and Colors:** Predefined but can be modified in the script.
 
 
 ## Usage
@@ -105,7 +105,7 @@ Upload speed:
 
 Sample:
 
-<img src="/speed_data_sample.png" alt="alt Sample Image" width="480" height="560"/>
+<img src="/speed_data_sample.png" alt="alt Sample Image" width="480" height="650"/>
 
 ### Troubleshooting ###
 
